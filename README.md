@@ -1,6 +1,8 @@
 # Driving-Speed-JND
 
-An adaptive-staircase (2-AFC / PEST) paradigm and analysis code for measuring just-noticeable differences in driving speed under manipulable sensory conditions (interior sound, and beyond).Experiment and analysis code for measuring the **just-noticeable difference (JND)
+An adaptive-staircase (2-AFC / PEST) paradigm and analysis code for measuring just-noticeable differences in driving speed under manipulable sensory conditions (interior sound, and beyond).
+
+Experiment and analysis code for measuring the **just-noticeable difference (JND)
 in driving speed** under three interior-noise conditions — internal-combustion-engine
 vehicle (**ICEV**), electric vehicle (**EV**), and **silence** — at reference speeds
 of **40 km/h** and **100 km/h**.
@@ -12,7 +14,7 @@ This repository accompanies the paper:
 > SAE Technical Paper 2026-01-0671, 2026.
 > https://www.sae.org/papers/influence-interior-noise-noticeable-speed-differences-conventional-electric-vehicles-2026-01-0671
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20617493.svg)](https://doi.org/10.5281/zenodo.20617493)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20617493-blue)](https://doi.org/10.5281/zenodo.20617493)
 [![Code: MIT](https://img.shields.io/badge/Code-MIT-green.svg)](LICENSE)
 [![Stimuli: CC BY 4.0](https://img.shields.io/badge/Stimuli-CC%20BY%204.0-lightgrey.svg)](LICENSE-stimuli.md)
 
