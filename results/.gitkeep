@@ -1,0 +1,3 @@
+# This folder receives raw staircase .mat files written by the experiment
+# scripts (src/experiment/run2down1upPEST40.m and run2down1upPEST100.m).
+# Its contents are git-ignored so that participant data stays local.

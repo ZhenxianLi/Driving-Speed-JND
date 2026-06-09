@@ -1,0 +1,17 @@
+# Runtime experiment output (raw participant staircases stay local)
+/results/*
+!/results/.gitkeep
+
+# Stimulus-generation logs
+*.log
+
+# macOS
+.DS_Store
+
+# MATLAB autosave / temporary files
+*.asv
+*.m~
+slprj/
+
+# Local Claude Code settings
+/.claude/

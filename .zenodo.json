@@ -1,0 +1,42 @@
+{
+  "title": "Driving-Speed-JND: stimuli and code for just-noticeable speed differences under ICEV, EV and silent interior noise",
+  "description": "<p>Audio-visual stimuli and software for a two-interval, two-alternative forced-choice (2AFC) study measuring the just-noticeable difference (JND) in driving speed under three interior-noise conditions (internal-combustion-engine vehicle, electric vehicle, and silence) at reference speeds of 40 and 100 km/h. Supplements SAE Technical Paper 2026-01-0671.</p><p><strong>This record contains both stimuli and a snapshot of the code, so the single DOI covers whichever part you use:</strong></p><ul><li><strong>Stimuli</strong> (CC BY 4.0): EV and ICEV cabin-sound recordings (WAV), the merged audio-visual clips, sample clips, and a stimulus-generation report. You may download the full video set, or only the audio plus sample clips and regenerate the rest with the scripts.</li><li><strong>Code</strong> (MIT): the MATLAB 2AFC adaptive-staircase experiment, the JND analysis, and the ffmpeg stimulus-generation scripts. The living code repository is on GitHub.</li></ul>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "LI, Zhenxian",
+      "affiliation": "INSA Lyon"
+    }
+  ],
+  "keywords": [
+    "electric vehicles",
+    "internal-combustion-engine vehicles",
+    "speed perception",
+    "just-noticeable difference",
+    "interior noise",
+    "psychoacoustics",
+    "adaptive staircase",
+    "PEST",
+    "driving simulator"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.4271/2026-01-0671",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/ZhenxianLi/Driving-Speed-JND",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    }
+  ],
+  "grants": [
+    {
+      "id": "10.13039/501100000780::101073014"
+    }
+  ],
+  "version": "1.0.0"
+}

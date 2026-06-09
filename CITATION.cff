@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software or the stimuli, please cite both the paper and this repository."
+title: "Driving-Speed-JND: experiment and analysis code for just-noticeable speed differences under ICEV, EV and silent interior noise"
+type: software
+authors:
+  - family-names: "LI"
+    given-names: "Zhenxian"
+    email: "zhenxian.li@insa-lyon.fr"
+    affiliation: "INSA Lyon"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # add your ORCID here
+version: "1.0.0"
+date-released: "2026-06-09"
+license: MIT
+repository-code: "https://github.com/ZhenxianLi/Driving-Speed-JND"
+# After publishing on Zenodo, add the DOI here (covers code + stimuli):
+# identifiers:
+#   - type: doi
+#     value: "10.5281/zenodo.XXXXXXX"
+#     description: "Zenodo archive (code + stimuli)"
+keywords:
+  - "electric vehicles"
+  - "internal-combustion-engine vehicles"
+  - "speed perception"
+  - "just-noticeable difference"
+  - "interior noise"
+  - "psychoacoustics"
+  - "adaptive staircase"
+  - "PEST"
+preferred-citation:
+  type: conference-paper
+  title: "The Influence of Interior Noise on Just-Noticeable Speed Differences in Conventional and Electric Vehicles"
+  authors:
+    - family-names: "LI"
+      given-names: "Zhenxian"
+  collection-title: "SAE Technical Paper Series"
+  number: "2026-01-0671"
+  doi: "10.4271/2026-01-0671"
+  year: 2026
+  publisher:
+    name: "SAE International"
