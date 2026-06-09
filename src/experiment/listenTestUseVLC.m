@@ -1,6 +1,8 @@
 function result = listenTestUseVLC(video1, video2, audioTrack1, audioTrack2, video1_realname, video2_realname)
 % listenTestUseVLC  Play two clips in VLC and collect a 2AFC speed judgement.
 %
+% Author: Zhenxian LI (zhenxian.li@insa-lyon.fr), INSA Lyon, LVA
+%
 % Plays two video clips back-to-back in fullscreen using the VLC media player,
 % then asks the participant which clip showed the faster car speed.
 %

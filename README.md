@@ -7,11 +7,12 @@ of **40 km/h** and **100 km/h**.
 
 This repository accompanies the paper:
 
-> Zhenxian LI, *"The Influence of Interior Noise on Just-Noticeable Speed Differences
-> in Conventional and Electric Vehicles"*, **SAE Technical Paper 2026-01-0671**, 2026.
+> Li, Z., Parizet, E., and Colangeli, C., "The Influence of Interior Noise on
+> Just-Noticeable Speed Differences in Conventional and Electric Vehicles,"
+> SAE Technical Paper 2026-01-0671, 2026.
 > https://www.sae.org/papers/influence-interior-noise-noticeable-speed-differences-conventional-electric-vehicles-2026-01-0671
 
-[![DOI](https://img.shields.io/badge/Zenodo-DOI%20pending-blue)](https://zenodo.org)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20617493.svg)](https://doi.org/10.5281/zenodo.20617493)
 [![Code: MIT](https://img.shields.io/badge/Code-MIT-green.svg)](LICENSE)
 [![Stimuli: CC BY 4.0](https://img.shields.io/badge/Stimuli-CC%20BY%204.0-lightgrey.svg)](LICENSE-stimuli.md)
 
@@ -201,12 +202,12 @@ redistributed, in line with the participants' consent.
 
 Please cite **both** the paper and the Zenodo record.
 
-- **Paper:** Z. LI, "The Influence of Interior Noise on Just-Noticeable Speed
-  Differences in Conventional and Electric Vehicles," SAE Technical Paper
-  2026-01-0671, 2026. doi:10.4271/2026-01-0671
-- **Code + stimuli:** the Zenodo DOI (added on first release; see
-  [`CITATION.cff`](CITATION.cff)). Because the Zenodo record contains both the code
-  and the stimuli, that single DOI covers whichever part you use.
+- **Paper:** Li, Z., Parizet, E., and Colangeli, C., "The Influence of Interior
+  Noise on Just-Noticeable Speed Differences in Conventional and Electric
+  Vehicles," SAE Technical Paper 2026-01-0671, 2026. doi:10.4271/2026-01-0671
+- **Code + stimuli:** LI, Z. (2026), *Driving-Speed-JND*. Zenodo.
+  https://doi.org/10.5281/zenodo.20617493 — because the Zenodo record contains
+  both the code and the stimuli, that single DOI covers whichever part you use.
 
 ## License
 

@@ -18,10 +18,12 @@
 % By default it analyses the anonymised demo data in data/sample_staircase/.
 % Point folderPath at your own results/ folder to analyse real sessions.
 %
+% Author: Zhenxian LI (zhenxian.li@insa-lyon.fr), INSA Lyon, LVA
+%
 % Reference:
-%   Z. LI, "The Influence of Interior Noise on Just-Noticeable Speed
-%   Differences in Conventional and Electric Vehicles", SAE Technical Paper
-%   2026-01-0671.
+%   Li, Z., Parizet, E., and Colangeli, C., "The Influence of Interior Noise
+%   on Just-Noticeable Speed Differences in Conventional and Electric
+%   Vehicles," SAE Technical Paper 2026-01-0671, 2026.
 % -------------------------------------------------------------------------
 
 clear; close all;

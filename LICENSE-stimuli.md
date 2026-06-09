@@ -14,8 +14,8 @@ commercially, provided you give appropriate credit.
 
 **Required attribution (example):**
 
-> Stimuli from LI, Z. (2026), *Driving-Speed-JND* (CC BY 4.0), accompanying SAE
-> Technical Paper 2026-01-0671. Zenodo. https://doi.org/<ZENODO-DOI>
+> LI, Z. (2026), *Driving-Speed-JND* (CC BY 4.0), accompanying SAE Technical
+> Paper 2026-01-0671. Zenodo. https://doi.org/10.5281/zenodo.20617493
 
 > Note: the **source code** in this project is licensed separately under the
 > **MIT License** (see `LICENSE`). The stimuli were produced with Siemens

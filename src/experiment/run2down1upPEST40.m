@@ -14,10 +14,12 @@
 % Just-noticeable difference (JND) is computed afterwards with
 % src/analysis/calcJND_reversalMeans.m
 %
+% Author: Zhenxian LI (zhenxian.li@insa-lyon.fr), INSA Lyon, LVA
+%
 % Reference:
-%   Z. LI, "The Influence of Interior Noise on Just-Noticeable Speed
-%   Differences in Conventional and Electric Vehicles", SAE Technical Paper
-%   2026-01-0671.
+%   Li, Z., Parizet, E., and Colangeli, C., "The Influence of Interior Noise
+%   on Just-Noticeable Speed Differences in Conventional and Electric
+%   Vehicles," SAE Technical Paper 2026-01-0671, 2026.
 %
 % Requirements: MATLAB R2016b+ (local functions in scripts), VLC media player.
 % -------------------------------------------------------------------------

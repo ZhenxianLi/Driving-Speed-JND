@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # merge_video_audio.sh
+# Author: Zhenxian LI (zhenxian.li@insa-lyon.fr), INSA Lyon, LVA
 # -----------------------------------------------------------------------------
 # Merge each speed's muted video with its matching cabin-sound recording to
 # produce the final stimuli played in the experiment.

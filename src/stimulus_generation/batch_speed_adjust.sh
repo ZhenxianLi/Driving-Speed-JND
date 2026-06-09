@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # batch_speed_adjust.sh
+# Author: Zhenxian LI (zhenxian.li@insa-lyon.fr), INSA Lyon, LVA
 # -----------------------------------------------------------------------------
 # Generate constant-speed driving clips at a range of target speeds by
 # re-timing a single source recording with ffmpeg (the setpts filter).

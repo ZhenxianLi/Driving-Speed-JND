@@ -1,6 +1,8 @@
 classdef CharMapper
     % CharMapper  Reversible character substitution used to blind file names.
     %
+    % Author: Zhenxian LI (zhenxian.li@insa-lyon.fr), INSA Lyon, LVA
+    %
     % Builds a one-to-one forward and reverse mapping over a fixed character
     % set (letters, digits and underscore) so that a stimulus file name such
     % as "mergeEV100_MIX" can be scrambled into an opaque string. This hides

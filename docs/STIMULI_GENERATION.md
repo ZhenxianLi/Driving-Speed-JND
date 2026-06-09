@@ -6,9 +6,9 @@ independently of the code.
 
 It accompanies:
 
-> Z. LI, "The Influence of Interior Noise on Just-Noticeable Speed Differences
-> in Conventional and Electric Vehicles," SAE Technical Paper 2026-01-0671, 2026.
-> doi:10.4271/2026-01-0671
+> Li, Z., Parizet, E., and Colangeli, C., "The Influence of Interior Noise on
+> Just-Noticeable Speed Differences in Conventional and Electric Vehicles,"
+> SAE Technical Paper 2026-01-0671, 2026. doi:10.4271/2026-01-0671
 
 **How to cite:** please cite the paper above (the study) together with the
 Zenodo record (the stimuli and code). See `CITATION.cff` in the code repository.
