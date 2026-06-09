@@ -2,7 +2,8 @@
 
 An adaptive-staircase (2-AFC / PEST) paradigm and analysis code for measuring just-noticeable differences in driving speed under manipulable sensory conditions (interior sound, and beyond).
 
-Experiment and analysis code for measuring the **just-noticeable difference (JND)
+Experiment and analysis code — plus audio and video stimulus samples — for
+measuring the **just-noticeable difference (JND)
 in driving speed** under three interior-noise conditions — internal-combustion-engine
 vehicle (**ICEV**), electric vehicle (**EV**), and **silence** — at reference speeds
 of **40 km/h** and **100 km/h**.
@@ -202,14 +203,18 @@ redistributed, in line with the participants' consent.
 
 ## How to cite
 
-Please cite **both** the paper and the Zenodo record.
+If you use this **method**, the **code**, or the **stimuli**, please cite **both**
+the paper and the Zenodo record:
 
-- **Paper:** Li, Z., Parizet, E., and Colangeli, C., "The Influence of Interior
-  Noise on Just-Noticeable Speed Differences in Conventional and Electric
-  Vehicles," SAE Technical Paper 2026-01-0671, 2026. doi:10.4271/2026-01-0671
-- **Code + stimuli:** LI, Z. (2026), *Driving-Speed-JND*. Zenodo.
-  https://doi.org/10.5281/zenodo.20617493 — because the Zenodo record contains
-  both the code and the stimuli, that single DOI covers whichever part you use.
+1. **Paper — the method (ISNVH 2026 / SAE):** Li, Z., Parizet, E., and Colangeli, C.,
+   "The Influence of Interior Noise on Just-Noticeable Speed Differences in
+   Conventional and Electric Vehicles," SAE Technical Paper 2026-01-0671, 2026.
+   DOI: [10.4271/2026-01-0671](https://doi.org/10.4271/2026-01-0671) ·
+   [SAE page](https://www.sae.org/papers/influence-interior-noise-noticeable-speed-differences-conventional-electric-vehicles-2026-01-0671)
+2. **Zenodo — code + stimuli:** LI, Z. (2026), *Driving-Speed-JND*. Zenodo.
+   DOI: [10.5281/zenodo.20617493](https://doi.org/10.5281/zenodo.20617493) ·
+   [record page](https://zenodo.org/records/20617494) — one DOI covering both the
+   code and the stimuli.
 
 ## License
 
